@@ -11,5 +11,5 @@ For compiled/interpreted languages:
 
 For web etc:
 
-- HTML: by default opens current file chromium, can be changed in with the  
+- HTML: by default opens current file in chromium, can be changed with the  
 browser variable
