@@ -38,6 +38,9 @@ vim.keymap.set("n", "<F7>", function()
     else
       print("No Makefile found!")
     end
+  elseif filetype == "lua" then
+    cmd = "term lua " .. filename
+    compile(cmd)
   elseif filetype == "python" then
     cmd = "term python " .. filename
     compile(cmd)
