@@ -1,4 +1,9 @@
-# Compile/Run
+# Usage
+
+1. copy compile_run.lua to your nvim config directory
+2. require the compile_run.lua somewhere in your nvim config e.g. init.lua or keymaps.lua
+
+## Compile/Run
 
 Pressing F7 will check the filetype and run the command defined for that filetype.
 
