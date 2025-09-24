@@ -1,7 +1,7 @@
 # Usage
 
 1. copy compile_run.lua to your nvim config directory
-2. require the compile_run.lua somewhere in your nvim config e.g. init.lua or keymaps.lua
+2. require the compile_run.lua somewhere in your nvim config e.g. init.lua or lua/config/keymaps.lua
 
 ## Compile/Run
 
