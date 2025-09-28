@@ -26,7 +26,7 @@ input {
 }
 ```
 
-> [!NOTE] kb_layout uses 0 based indexing
+Note: kb_layout uses 0 based indexing
 
 ## Neovim keybinds
 
